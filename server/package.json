@@ -1,0 +1,31 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Node Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arajajyothibabu/learning-graphql.git"
+  },
+  "keywords": [
+    "graphql",
+    "node",
+    "js",
+    "apollo"
+  ],
+  "author": "Jyothi Babu Araja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arajajyothibabu/learning-graphql/issues"
+  },
+  "homepage": "https://github.com/arajajyothibabu/learning-graphql#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2",
+    "lodash": "^4.17.11"
+  }
+}
